@@ -225,12 +225,9 @@ Guangxi-Habitat-Quality-Dynamics/
 │   └── moransI_results.png
 │
 ├── scripts/
-│   ├── habitat_quality_analysis.py
-│   ├── spatial_autocorrelation.R
-│   └── visualization.R
-│
-├── docs/
-│   └── manuscript.pdf
+│   ├── 01_compute_habitat_quality_invest.R
+│   ├── 02_analyze_lulc.R
+│   └── 03_compute_moran_i.R
 │
 └── README.md
 ```
